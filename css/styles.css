@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: lightyellow;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+/* 
+    Heading section
+*/
+
+#heading {
+    margin: 1.5%;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    color: lightgreen;
+    font-size: 6rem;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 3px 3px grey;
+}
+
+.winner-flag {
+    width: 150px;
+    height: 150px;
+}
+
+/* 
+    Player Section
+*/
+
+.players {
+    margin: 2% 15% 1%;
+    font-size: 1.2rem;
+}
+
+/* 
+    Dice Section
+*/ 
+
+#dice-section {
+    margin-bottom: 10%;
+}
+
+#dice-section img {
+    width: 200px;
+    height: 200px;
+    margin: auto 4%;
+}
+
+/* 
+    Footer section
+ */
+
